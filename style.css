@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(240, 240, 221);
+}
+
+div {
+    justify-items: center;
+}
+
+img {
+    padding-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 20px;
+}
+
+table {
+    table-layout: auto;
+    width: 350px;
+    height: 350px;
+    margin: 50px;
+    text-align: center;
+}
